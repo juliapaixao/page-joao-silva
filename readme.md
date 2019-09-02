@@ -1,3 +1,4 @@
 #Projeto Alura
 
-uhuhuhuhuhuhuhuhuhu
+Este projeto é pertencente ao curso da Alura!!!
+
